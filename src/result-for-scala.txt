@@ -1,0 +1,207 @@
+Enter the keyword:
+scala
+Data is being processed...
+
+Groups (errors / successful results): 0 / 3
+Vacancies (errors / successful results): 0 / 216
+
+scala                  200
+java                   167
+python                 71
+git                    57
+linux                  43
+sql                    38
+nosql                  37
+akka                   36
+hadoop                 33
+php                    33
+spark                  31
+docker                 30
+javascript             30
+cassandra              29
+angularjs              28
+js                     28
+postgresql             26
+maven                  26
+scrum                  25
+mongodb                25
+redis                  24
+web                    23
+ruby                   23
+http                   23
+agile                  23
+rest                   22
+teamcity               22
+jenkins                22
+devops                 21
+spring                 21
+kafka                  21
+it                     20
+html                   20
+oracle                 19
+big data               19
+jvm                    18
+css                    18
+react                  18
+ci                     18
+end                    18
+ide                    17
+groovy                 17
+java 8                 16
+livetex                16
+etc                    15
+webpack                15
+jira                   15
+mysql                  15
+github                 14
+intermediate           14
+websockets             14
+aws                    13
+orm                    13
+hive                   13
+back                   13
+backend                13
+junit                  12
+unix                   12
+tradeshift             12
+node                   12
+api                    12
+kotlin                 12
+machine learning       12
+selenium               11
+kanban                 11
+postgres               11
+etl                    11
+tdd                    11
+tomcat                 11
+frontend               11
+bigdata                10
+scalatest              10
+enterprise             10
+soa                    10
+code review            10
+haskell                10
+nix                    10
+sbt                    10
+xml                    10
+npm                    10
+time                   10
+hbase                  10
+jmm                    10
+bootstrap              10
+fintech                10
+mac                    9
+nginx                  9
+rabbitmq               9
+play framework         9
+django                 9
+impala                 9
+elasticsearch          9
+typescript             9
+amp                    9
+apache spark           9
+go                     9
+deep learning          9
+gradle                 9
+hibernate              9
+data mining            9
+redux                  9
+saas                   9
+amazon aws             9
+bash                   9
+hdfs                   9
+win                    8
+oop                    8
+clojure                8
+security               8
+front                  8
+ajax                   8
+angular                8
+jboss                  8
+confluence             8
+ui                     8
+mail                   8
+flow                   8
+google apps            8
+chef                   8
+solid                  7
+slick                  7
+struts                 7
+qa                     7
+ruby on rails          7
+sass                   7
+java ee                7
+html5                  7
+soap                   7
+acid                   7
+svn                    7
+ws                     7
+spock                  6
+copenhagen             6
+spring framework       6
+jit                    6
+source                 6
+ood                    6
+xpath json             6
+dataart                6
+erp                    6
+scalamock              6
+mapreduce              6
+intellij idea          6
+cd                     6
+azure                  6
+elama                  6
+design patterns        6
+rest api               6
+apache kafka           6
+java se                6
+open                   6
+thucydides             6
+core java              6
+geb                    6
+objective              6
+francisco              6
+san                    6
+concurrency            6
+apache                 6
+xslt                   6
+rdbms                  6
+suzhou                 6
+spray                  6
+unit                   6
+jetty                  6
+mvc                    6
+grails                 6
+high                   6
+selenium wedriver      6
+continuous integration 6
+sqlite                 5
+production             5
+ip                     5
+7 fintech              5
+jms                    5
+j2ee                   5
+golang                 5
+less                   5
+gulp                   5
+ps4                    5
+jdbc                   5
+java developer         5
+play                   5
+opensource             5
+unix shell             5
+full                   5
+idea                   5
+gant                   5
+java 6                 5
+skype                  5
+ioc                    5
+puppet                 5
+symfony                5
+apache hadoop          5
+css3                   5
+ru                     5
+es6                    5
+tcp                    5
+jquery                 5
+org                    5

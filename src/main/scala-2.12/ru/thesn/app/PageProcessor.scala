@@ -24,8 +24,7 @@ object PageProcessor {
         val (errVacancies, successVacancies) = successGroups
                 .map(_.right.get)
                 .flatMap(m => m("items").asInstanceOf[List[JsonMap]])
-                .map(m => m("id").toString)
-                .map(makeVacancyUrl)
+                .map(m => s"https://api.hh.ru/vacancies/" + m("id").toString)
                 .map(JsonLoader.loadContent)
                 .partition(_.isLeft)
 
@@ -35,13 +34,13 @@ object PageProcessor {
 
                 // working with text
                 .map(replacePattern.replaceAllIn(_, ";"))
-                .filter(isRussianTest)
+                .withFilter(isRussianTest)
                 .flatMap(descriptionSplitPattern.split(_).distinct)
 
                 // working with separate words
                 .map(_.trim)
-                .filter(_.length > 1)
-                .filter(!_.matches("\\d+"))
+                .withFilter(_.length > 1)
+                .withFilter(!_.matches("\\d+"))
                 .map(_.toLowerCase())
                 .groupBy(identity)
                 .mapValues(_.size)
@@ -61,8 +60,6 @@ object PageProcessor {
         )
 
     }
-
-    private def makeVacancyUrl(id: String) = s"https://api.hh.ru/vacancies/$id"
 
     def isRussianTest(text: String): Boolean = {
         val rusLettersCount = text.count(i => i >= 'а' && i <= 'я')

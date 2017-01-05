@@ -26,8 +26,8 @@ object Main {
         println(s"Vacancies (errors / successful results): $errVacancies / $successVacancies\n")
 
         if (successVacancies > 0) {
-            val maxLength = result.maxBy(_._1.length)._1.length
-            result.foreach(t => println(s"${t._1 + " " * (maxLength - t._1.length)} ${t._2}"))
+            val tupleWithMaxInt = result maxBy { case (k, _) => k.length }
+            result.foreach(t => println(s"${t._1 + " " * (tupleWithMaxInt._1.length - t._1.length)} ${t._2}"))
         }
     }
 

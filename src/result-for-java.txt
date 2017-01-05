@@ -1,0 +1,207 @@
+Enter the keyword:
+java
+Data is being processed...
+
+Groups (errors / successful results): 0 / 20
+Vacancies (errors / successful results): 0 / 2000
+
+java                   1899
+sql                    891
+javascript             592
+spring                 581
+git                    509
+hibernate              431
+web                    398
+maven                  397
+oracle                 387
+html                   376
+svn                    371
+css                    341
+java ee                323
+java se                317
+jdbc                   316
+linux                  314
+postgresql             250
+it                     240
+jpa                    240
+jms                    229
+xml                    226
+j2ee                   214
+rest                   211
+pl                     211
+jquery                 194
+agile                  193
+xslt                   181
+jira                   177
+mysql                  174
+android                173
+osgi                   173
+junit                  172
+spring framework       167
+soap                   165
+js                     159
+tomcat                 150
+scrum                  148
+ws                     136
+nosql                  130
+jsp                    130
+angularjs              125
+casual                 122
+framework              120
+intermediate           120
+ejb                    119
+jboss                  119
+python                 114
+http                   113
+jenkins                112
+mvc                    109
+html5                  107
+camel                  107
+php                    103
+json                   102
+unit                   102
+soa                    101
+jax                    101
+ajax                   96
+gwt                    93
+esb                    92
+servlets               91
+j2se                   90
+teamcity               90
+jta                    90
+unix                   88
+orm                    88
+gradle                 88
+scala                  88
+end                    85
+ios                    83
+weblogic               82
+ant                    82
+core                   81
+ui                     79
+bash                   78
+net                    77
+tdd                    77
+code review            76
+backend                76
+open                   75
+mongodb                75
+source                 74
+java core              74
+api                    72
+jetty                  72
+jsf                    71
+java 8                 71
+mercurial              70
+glassfish              69
+front                  66
+docker                 65
+tfs                    63
+collections            62
+core java              61
+mssql                  59
+back                   58
+groovy                 58
+security               56
+angular                56
+javaee                 56
+ms sql                 56
+web services           56
+etc                    55
+extjs                  55
+selenium               54
+rs                     54
+amp                    53
+confluence             53
+frontend               53
+mom                    52
+ci                     52
+came                   51
+os linux               51
+apache tomcat          51
+redis                  50
+bootstrap              49
+postgres               47
+hadoop                 47
+xsd                    47
+microsoft              46
+enterprise             45
+uml                    45
+kanban                 44
+data                   44
+servlet                44
+multithreading         44
+java 7                 43
+react                  42
+intellij idea          42
+css3                   41
+oop                    40
+erp                    40
+java 1                 40
+eclipse                39
+eastbanc technologies  38
+android sdk            38
+github                 37
+crm                    37
+spring mvc             37
+senior                 37
+struts                 36
+akka                   36
+oracle db              36
+continuous integration 36
+swing                  35
+cassandra              35
+websphere              35
+wildfly                34
+testng                 34
+concurrency            34
+jee                    34
+ioc                    33
+bi                     33
+javase                 33
+cms                    33
+ibm websphere          33
+rabbitmq               31
+spring boot            31
+liquibase              31
+ms sql server          31
+redmine                31
+sap                    31
+windows                31
+devops                 30
+dom                    30
+typescript             30
+mockito                30
+bigdata                29
+ip                     29
+solid                  29
+java developer         29
+java script            29
+commerce               29
+di                     29
+middle                 29
+nix                    29
+ibm                    29
+zkoss                  29
+aws                    28
+big data               28
+bpm                    28
+postgre                28
+mybatis                28
+tcp                    28
+vba                    28
+reactjs                28
+vaadin                 27
+rest api               27
+spark                  27
+apache                 27
+xpath                  27
+elasticsearch          26
+senior java developer  26
+com                    26
+less                   25
+jaxb                   25
+saas                   25
+ruby                   25
+hbase                  25
+legacy                 24
